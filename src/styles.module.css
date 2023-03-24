@@ -1,9 +1,14 @@
 /* add css module styles here (optional) */
 
-.test {
-  margin: 2em;
-  padding: 0.5em;
-  border: 2px solid #000;
-  font-size: 2em;
-  text-align: center;
+.react-pro-player-controls {
+  position: 'absolute';
+  bottom: 0;
+  left: 0;
+  background: 'red';
+  width: '100%';
+  padding: '10px';
+}
+
+.react-pro-player-wrapper {
+  position: 'relative';
 }
